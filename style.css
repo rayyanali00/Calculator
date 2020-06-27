@@ -1,0 +1,22 @@
+.btn-light{
+    width: 90px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.result{
+    width: 90%;
+    height: 50px;
+    border: none;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color:lavender ;
+}
+.equal{
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 20px;
+}
