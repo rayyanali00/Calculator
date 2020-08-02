@@ -20,3 +20,11 @@
     margin-top: 15px;
     margin-left: 20px;
 }
+@media (max-width: 1200px){
+    .container{
+        width: 95% !important;
+    }
+    .btn-container{
+        margin-left: 10%;
+    }
+}
